@@ -1,5 +1,10 @@
 # haproxy vim syntax
 
+## Via vundle ?
+
+```
+Bundle 'rottenbytes/haproxy.vim'
+```
 
 ## Source
 
